@@ -1,1 +1,5 @@
-Drinkwinebeer
+Drink
+wine
+beer
+water
+orange juice
